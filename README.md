@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayank Kapoor  
-- 👀 I’m interested in Web development mostly in frontend development 
+- 👀 I’m interested in Web development front-end back-end both but mostly interseted in frontend development.
 - 🌱 I’m currently learning Advance JavaScript    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mayankkapoor2696@gmial.com
